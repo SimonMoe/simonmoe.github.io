@@ -97,7 +97,17 @@
 			<a id="nextlink" href=""></a>
 		</span>
 	</nav>
-	<div id="comment-container" class="comment-container"></div>
+	<div id="comment-container" class="comment-container">
+			<div id="disqus_thread"></div>
+			<script type="text/javascript">
+				var disqus_shortname = 'voidgarden';
+				(function() {
+				var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+				dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+				(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+				})();
+			</script>
+	</div>
 	<footer id="global-footer" class="global">
 		<a href="/">&copy; 2013 莫祥熙, Joy Neop, 刘小刘, 王艺颖, Sleeping Knight, 轩辕霾, AlexisLEIGH, 董堇葛, 貳球, 青山维特</a><br />
 		<a href="http://blog.joyneop.com/">Powered by NeopBlog (Special edition for Void Garden)</a>

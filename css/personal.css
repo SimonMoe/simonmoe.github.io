@@ -30,3 +30,7 @@ a[href="http://blog.joyneop.com/"] {
 body #cont.cont a {
 	text-decoration: none;
 }
+
+body #prevandnext.prevandnext a {
+	text-decoration: none;
+}

@@ -36,9 +36,8 @@ var postIndex = eval("(" + backList + ")");
 var jsonMeta = ajaxMetaData.responseText;
 
 blogMetaData = eval("(" + jsonMeta + ")");
-var total = blogMetaData.totalPosts;
+var total = postIndex.list.length;
 var blogName = blogMetaData.blogName;
-var multiUser = blogMetaData.multiUser;
 var url = purl();
 
 var postId = url.param("p");

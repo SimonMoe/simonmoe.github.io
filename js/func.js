@@ -18,6 +18,7 @@ Copyright info:
 ----------------------------------------*/
 
 function loadPost(pid, localport, ifPageTitle) {
+	var multiUser = blogMetaData.multiUser;
 	ajaxContent.open("GET", "db/" + pid + ".txt", false);
 	ajaxContent.send();
 	jsonPost = ajaxContent.responseText;

@@ -20,7 +20,7 @@ Copyright info:
 	Status: All Rights Reserved
 ----------------------------------------*/
 
-@media screen and (max-width: 1099px) {
+@media screen and (max-width: 1098px) {
 	.global {
 		text-align: center;
 		margin: 60px 0;
@@ -29,10 +29,10 @@ Copyright info:
 
 	#global-header {
 		height: 50px;
+		padding: 12px 20px 0;
 	}
 	
 	.global h1 {
-		float: none;
 		font-size: 28px;
 		text-align: left;
 	}
@@ -77,7 +77,12 @@ Copyright info:
 	}
 
 	section.post footer {
-		text-align: center;
+		text-align: left;
+	}
+
+	section.post footer img {
+		display: block;
+		margin-bottom: 12px;
 	}
 
 	nav.prevandnext {

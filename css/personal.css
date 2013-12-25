@@ -31,6 +31,6 @@ body #cont.cont a {
 	text-decoration: none;
 }
 
-body #prevandnext.prevandnext a {
+nav#prevandnext.prevandnext span a {
 	text-decoration: none;
 }

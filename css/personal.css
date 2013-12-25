@@ -26,3 +26,7 @@ a[href="http://blog.joyneop.com/"] {
 	color: #BBB;
 	text-align: center;
 }
+
+body #cont.cont a {
+	text-decoration: none;
+}

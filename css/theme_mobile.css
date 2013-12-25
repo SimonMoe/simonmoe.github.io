@@ -2,15 +2,14 @@
 Theme designed for NeopBlog
 ------------------------------------------
 Theme meta info:
-	Theme Name: JN Zhihu
-	Theme Page: https://github.com/JoyNeop/JN-Zhihu
+	Theme Name: JN Void Garden
 	Theme Version: 0.9.0
 	Theme status: Beta
 ------------------------------------------
 File meta info:
 	File Name: theme_mobile.css
 	File Version: 0.9.0
-	File status: Beta
+	File Status: Beta
 ------------------------------------------
 Designer meta info:
 	Designer Name: Joy Neop
@@ -18,8 +17,7 @@ Designer meta info:
 	Designer Twitter: @joyneop
 ------------------------------------------
 Copyright info:
-	License Name: CC BY-NC-SA 4.0
-	License Link: http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US
+	Status: All Rights Reserved
 ----------------------------------------*/
 
 @media screen and (max-width: 1099px) {
@@ -30,9 +28,11 @@ Copyright info:
 	}
 
 	#global-header {
+		height: 50px;
 	}
 	
 	.global h1 {
+		float: none;
 		font-size: 28px;
 		text-align: left;
 	}

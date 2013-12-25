@@ -1,0 +1,2 @@
+<p>You have no need to name your post with a title, leaving blank is okay.</p>
+<p>Additionally you should write HTML with your hand.</p>

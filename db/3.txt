@@ -1,0 +1,2 @@
+<p>BTW, when you add new post, you are suppoed to edit "meta.json" and "list.json" manually.</p>
+<p>Simple and easy, isn't it?</p>

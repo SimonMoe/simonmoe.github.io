@@ -1,9 +1,6 @@
 {
 "list" : [
 	{ "postAuthor" : 0, "postDate" : "2012 年 4 月 5 日", "postCate" : "个人生活", "postTitle" : "Hello World!" },
-	{ "postAuthor" : 1, "postDate" : "2012 年 4 月 12 日", "postCate" : "科技", "postTitle" : "Good job" },
-	{ "postAuthor" : 2, "postDate" : "2012 年 4 月 22 日", "postCate" : "设计与艺术", "postTitle" : "Use pictures in this way" },
-	{ "postAuthor" : 6, "postDate" : "2012 年 4 月 23 日", "postCate" : "心灵鸡汤", "postTitle" : "Let's go!" }
 ],
 "users" : [
 	{ "userName" : "莫祥熙", "userURL" : "http://zhihu.com/people/mo-xiang-xi" },
